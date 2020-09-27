@@ -17,8 +17,6 @@ Backend track
 
 Spend maximum four hours working on this assignment - make sure to finish the issues you start.
 
-Put the code in a git repo on GitHub and send us the link (niklas.holmqvist@kry.se) when you are done.
-
 Good luck!
 
 # Building
