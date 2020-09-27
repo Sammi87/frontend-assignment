@@ -1,0 +1,15 @@
+export const styles = {
+    main: {fontFamily: "arial, sans-serif", width: "100%", maxWidth: "440px" ,margin: "0 auto"},
+    createForm: {display: "flex", flexWrap: "wrap", marginBottom: "2rem"},
+    createInput: {flex: 1, fontSize: "1rem", boxSizing: "border-box", padding: "1rem", marginRight: "0.375rem", border: "1px solid #999", borderRadius: "6px"},
+    createLabel: {width: "100%", marginBottom: "0.5rem"},
+    createButton: {width: "55px", fontSize: "1rem", cursor: "pointer", background: "#0a7e85", color: "#fff", border: 0, borderRadius: "0.375rem"},
+    listItem: {display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "space-between", marginBottom: "0.8rem"},
+    updateInput: {flex: 1, fontSize: "1rem", boxSizing: "border-box", padding: "0.8rem", marginRight: "0.375rem", border: "1px solid #999", borderRadius: "6px"},
+    smallText: {fontSize: "0.7rem", color: "#666", marginBottom: "0.3rem"},
+    deleteButton: {display: "block", background: "none", cursor: "pointer", border: 0, padding: 0, width: "24px", height: "24px"},
+    itemWrapper: {display: "flex", width: "145px", justifyContent: "space-between"},
+    smallButton: {fontSize: "0.9rem", cursor: "pointer", background: "#0a7e85", color: "#fff", border: 0, borderRadius: "0.375rem", marginRight: "0.3rem", padding: "0.3rem"},
+    closeButton: { display: "block", background: "none", cursor: "pointer", border: "0px", padding: "0px", width: "18px", height: "18px"},
+    editButton: {display: "block", background: "none",cursor: "pointer", border: 0, padding: 0, width: "24px", height: "24px", marginRight: "3px"},
+}
